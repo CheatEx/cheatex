@@ -3,6 +3,6 @@
  :page-index 0
  :navbar? true}
 
-## Write something about something
+Hi. One here will be a good pesonal site with descent blog and many high quality technical articles.
 
-wow wow wow
+Right now I'm converting to MD and pulling together html posts from blogspot and some valuable posts from TG.

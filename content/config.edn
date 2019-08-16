@@ -1,7 +1,7 @@
-{:site-title           "My Awesome Blog"
- :author               "Bob Bobbert"
- :description          "This blog is awesome"
- :site-url             "http://blogawesome.com/"
+{:site-title           "cheatex"
+ :author               "Alexey Zlobin"
+ :description          "Yet another personal site"
+ :site-url             "https://cheatex.github.io/"
  :post-root            "posts"
  :page-root            "pages"
  :post-root-uri        "posts-output"
@@ -18,7 +18,7 @@
  :sass-src             []
  :sass-path            "sass"
  :compass-path         "compass"
- :theme                "blue"
+ :theme                "my"
  :resources            ["img"]
  :keep-files           [".git"]
  :disqus?              false
