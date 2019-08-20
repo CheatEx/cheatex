@@ -1,4 +1,4 @@
-{:title "Эволюция фремворков"
+{:title "Эволюция фреймворков"
  :layout :post
  :tags  ["java", "thoughts"]}
 

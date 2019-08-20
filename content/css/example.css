@@ -1,3 +1,7 @@
 a {
     text-decoration-style: dashed;
 }
+
+.navbar-default {
+    background-color: blue;
+}
