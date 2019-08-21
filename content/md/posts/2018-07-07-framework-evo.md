@@ -1,6 +1,6 @@
 {:title "Эволюция фреймворков"
  :layout :post
- :tags  ["java", "thoughts"]}
+ :tags  ["java", "thoughts" "TG repost"]}
 
 Вначале была уютная джавочка с API для файлов-сокетов и интерфейсом в ODBC.
 
