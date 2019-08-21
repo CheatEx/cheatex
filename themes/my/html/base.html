@@ -57,17 +57,6 @@
 
         <div class="col-md-3">
             <div id="sidebar">
-                <h3>Links</h3>
-                <ul id="links">
-                    <li><a href="https://github.com/CheatEx">GitHub</a></li>
-                    <li><a href="https://twitter.com/CheatEx">Twitter</a></li>
-                    <li><a href="https://t.me/real_code_expert">TG channel</a></li>
-                    <li><a href="http://programmers-path.blogspot.com/">Old blog</a></li>
-                    <li><a href="https://www.linkedin.com/in/alexey-zlobin">LI profile</a></li>
-                    {% for page in sidebar-pages %}
-                    <li><a href="{{page.uri}}">{{page.title}}</a></li>
-                    {% endfor %}
-                </ul>
                 {% if latest-posts|not-empty %}
                 <div id="recent">
                     <h3>Recent Posts</h3>
@@ -81,11 +70,11 @@
                 {% if tags|not-empty %}
                 <div id="tags">
                     <h3>Tags</h3>
-                    <ul>
-                        {% for tag in tags %}
-                        <li><a href="{{tag.uri}}">{{tag.name}}</a></li>
-                        {% endfor %}
-                    </ul>
+                    <div class="tag-block">
+                    {% for tag in tags %}
+                    <a href="{{tag.uri}}">{{tag.name}}</a>
+                    {% endfor %}
+                    </div>
                 </div>
                 {% endif %}
             </div>
