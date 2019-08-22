@@ -20,6 +20,7 @@
 
 * [Twitter `@cheatex`](https://twitter.com/CheatEx)
 * [Telegram `@real_code_expert`](https://t.me/real_code_expert)
+* [Habr](https://habr.com/ru/users/cheatex/)
 * [Старый блог](http://programmers-path.blogspot.com/) (мигрирую стоящий контент сюда)
 
 ### Контакты
