@@ -1,6 +1,6 @@
 {:title "Проблема с исключениями"
  :layout :post
- :tags  ["excetions", "java", "error-handling" "TG repost"]}
+ :tags  ["exceptions", "java", "error-handling" "TG repost"]}
 
 С исключениями есть одна большая проблема. В каждой команде которую мне довелось встречать было своё уникальное видение как их "правильно" применять.
 
