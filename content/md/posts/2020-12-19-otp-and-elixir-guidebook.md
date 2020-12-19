@@ -1,6 +1,6 @@
 {:title "The Little Elixir & OTP Guidebook"
  :layout :post
- :tags  ["programming" "otp" "elixir" "erlang"]}
+ :tags  ["books" "programming" "otp" "elixir" "erlang"]}
 
 Последнюю пару месяцев много ковыряю Elixir. Мысли про язык и окружение напишу чуть позже. А пока обзор книжки с которой решил начать.
 
