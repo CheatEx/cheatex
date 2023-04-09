@@ -7,7 +7,7 @@
 
 Привет. Я Алексей и я программирую.
 
-[Мое резюме](../../cv.pdf) с историей где я это делал.
+Мое резюме [\[RU\]](../../cv-ru.pdf) [\[EN\]](../../cv.pdf)  с историей где я это делал.
 
 ### Ссылки
 
@@ -21,7 +21,6 @@
 * [Twitter `@cheatex`](https://twitter.com/CheatEx)
 * [Telegram `@real_code_expert`](https://t.me/real_code_expert)
 * [Habr](https://habr.com/ru/users/cheatex/)
-* [Старый блог](http://programmers-path.blogspot.com/) (мигрирую стоящий контент сюда)
 
 ### Контакты
 

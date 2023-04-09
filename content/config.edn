@@ -19,7 +19,7 @@
  :sass-path            "sass"
  :compass-path         "compass"
  :theme                "my"
- :resources            ["img" "cv.pdf"]
+ :resources            ["img" "cv.pdf" "cv-ru.pdf"]
  :keep-files           [".git"]
  :disqus?              false
  :disqus-shortname     ""
